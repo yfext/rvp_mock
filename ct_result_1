@@ -1,0 +1,14 @@
+{
+    "result": 1,
+    "error": [],
+    "data": [
+        {
+            "age": 32,
+            "height": 154,
+            "annual_income": 300,
+            "job_type": "01",
+            "education": "04",
+            "marriage_flg": "0"
+        }
+    ]
+}
