@@ -1,0 +1,8 @@
+{
+    "result": 0,
+    "error": [
+        "code": 1,
+        "message": "タイムアウト",
+    ],
+    "data": []
+}
