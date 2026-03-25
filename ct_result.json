@@ -8,7 +8,8 @@
             "annual_income": 300,
             "job_type": "給与所得者 事務系",
             "education": "短大・高専",
-            "marriage_flg": "無"
+            "marriage_flg": "無",
+            "prefecture": "東京"
         },
         {
             "age":28,
@@ -16,7 +17,8 @@
             "annual_income": 350,
             "job_type": "給与所得者 営業・販売・サービス系",
             "education": "各種専門学校",
-            "marriage_flg": "有"
+            "marriage_flg": "有",
+            "prefecture": "千葉"
         },
         {
             "age": 36,
@@ -24,7 +26,8 @@
             "annual_income": 280,
             "job_type": "理・美容師",
             "education": "大学",
-            "marriage_flg": "無"
+            "marriage_flg": "無",
+            "prefecture": "神奈川"
         }
     ]
 }
