@@ -6,25 +6,25 @@
             "age": 32,
             "height": 154,
             "annual_income": 300,
-            "job_type": "01",
-            "education": "04",
-            "marriage_flg": "0"
+            "job_type": "給与所得者 事務系",
+            "education": "短大・高専",
+            "marriage_flg": "無"
         },
         {
-            "age": 28,
+            "age":28,
             "height": 157,
             "annual_income": 350,
-            "job_type": "02",
-            "education": "02",
-            "marriage_flg": "1"
+            "job_type": "給与所得者 営業・販売・サービス系",
+            "education": "各種専門学校",
+            "marriage_flg": "有"
         },
         {
             "age": 36,
             "height": 156,
-            "annual_income": 260,
-            "job_type": "03",
-            "education": "03",
-            "marriage_flg": "0"
+            "annual_income": 280,
+            "job_type": "理・美容師",
+            "education": "大学",
+            "marriage_flg": "無"
         }
     ]
 }
