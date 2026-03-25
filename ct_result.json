@@ -1,0 +1,30 @@
+{
+    "result": 1,
+    "error": [],
+    "data": [
+        {
+            "age": 32,
+            "height": 154,
+            "annual_income": 300,
+            "job_type": "01",
+            "education": "04",
+            "marriage_flg": "0"
+        },
+        {
+            "age": 28,
+            "height": 157,
+            "annual_income": 350,
+            "job_type": "02",
+            "education": "02",
+            "marriage_flg": "1"
+        },
+        {
+            "age": 36,
+            "height": 156,
+            "annual_income": 260,
+            "job_type": "03",
+            "education": "03",
+            "marriage_flg": "0"
+        }
+    ]
+}
