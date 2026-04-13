@@ -2,7 +2,7 @@
     "result": 1,
     "error": [],
     "data": {
-        "total_count": 100,
+        "both_count": 20,
         "target_only_count": 60,
         "list": [
             {
