@@ -1,0 +1,9 @@
+{
+    "result": 1,
+    "error": {
+        "code": 99,
+        "message": "エラーが発生しました。",
+        "details": []
+    },
+    "data": []
+}
