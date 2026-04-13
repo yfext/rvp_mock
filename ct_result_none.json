@@ -1,5 +1,9 @@
 {
     "result": 1,
     "error": [],
-    "data": []
+    "data": {
+        "both_count": 0,
+        "target_only_count": 0,
+        "list": []
+    }
 }
