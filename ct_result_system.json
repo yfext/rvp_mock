@@ -1,8 +1,9 @@
 {
     "result": 0,
     "error": {
-        "code": "2",
-        "message": "システムエラー"
+        "code": "9",
+        "message": "システムエラー",
+        "details": []
     },
     "data": []
 }
