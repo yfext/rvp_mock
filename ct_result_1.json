@@ -1,15 +1,19 @@
 {
     "result": 1,
     "error": [],
-    "data": [
-        {
-            "age": 32,
-            "height": 154,
-            "annual_income": 300,
-            "job_type": "給与所得者 事務系",
-            "education": "短大・高専",
-            "marriage_flg": "無",
-            "prefecture": "東京"
-        }
-    ]
+    "data": {
+        "both_count": 100,
+        "target_only_count": 60,
+        "list": [
+            {
+                "age": 32,
+                "height": 154,
+                "annual_income": 300,
+                "job_type": "給与所得者 事務系",
+                "education": "短大・高専",
+                "marriage_flg": "無",
+                "prefecture": "東京"
+            }
+        ]
+    }
 }
